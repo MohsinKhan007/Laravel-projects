@@ -1,6 +1,6 @@
 Lasapp:
-	 A simple Blog posts app in which a uuser add a blog and can edit or remove it. The Blog contains title, body and image of each blog post.
-	 The app has a login and register system and in-build laravel authentication and security system. A user can only edit or delete its posts. 
+	 A simple Blog posts app in which a user can add a blog and can edit or remove it. The Blog contains title, body and image of each blog post.
+	 The app has a login and register system and in-build laravel authentication and security system. An user can only edit or delete his/her posts. 
 
 
 
